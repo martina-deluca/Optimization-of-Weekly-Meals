@@ -1,5 +1,4 @@
 # Optimization-of-Weekly-Meals
-Project assignment for Introduction to Optimization.
 
 The objective of this project was to find daily recipes for users throughout the week by taking into account multiple dietary restrictions and user preferences, while minimizing the cost.
 
